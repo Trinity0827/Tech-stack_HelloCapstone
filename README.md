@@ -1,6 +1,4 @@
 # HelloCapstone
-
-# Hello Capstone (.NET Console)
 This is a simple console app created for my Capstone tech-stack tutorial using .NET.
 
 ## Tutorial Completed
